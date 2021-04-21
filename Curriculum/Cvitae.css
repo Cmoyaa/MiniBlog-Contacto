@@ -1,0 +1,533 @@
+/* Fondo general */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Fondo de bloques */
+div#general {
+    margin: auto;
+    margin-top: 45px;
+    position: relative;
+    width: 1750px;
+    height: 880px;
+    border-radius: 50px;
+    background-color: white;
+}
+
+/* Caja con información sobre mi */
+div#caja1 {
+    margin:auto;
+    margin-top: 43px;
+    margin-left: 750px;
+    position: absolute;
+    width: 950px;
+    height: 250px;
+    border-radius: 20px;
+    background-color: #29b7c7;
+}
+div#caja1 h1{
+    font-family: sans-serif;
+    color: #1b262c;
+    margin: 1px;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+div#caja1 p{
+    font-family: sans-serif;
+    font-size: 105%;
+    color: #1b262c;
+    margin: 1px;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+/* Caja con datos sobre mi y foto */
+div#caja2 {
+    margin:auto;
+    margin-top: 10px;
+    margin-left: 10px;
+    position: absolute;
+    width: 600px;
+    height: 850px;
+    border-radius: 20px;
+    background-color: #29b7c7;
+}
+
+/* Caja con Asignaturas y experiencia laboral */
+div#caja3 {
+    margin:auto;
+    margin-top: 330px;
+    margin-left: 750px;
+    position: absolute;
+    width: 475px;
+    height: 500px;
+    border-radius: 20px;
+    background-color: #29b7c7;
+}
+
+/* Titulo Asignaturas */
+div#caja3 h2{
+    font-family: sans-serif;
+    color: #1b262c;
+    margin: 1px;
+    padding-left: 40px;
+    padding-top: 35px;
+}
+
+/* Lista Asignaturas */
+div#caja3 ul{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #1b262c;
+    margin: 1px;
+    padding-left: 94px;
+    padding-top: 20px;
+}
+
+/* Caja con Habilidades */
+div#caja4 {
+    margin:auto;
+    margin-top: 330px;
+    margin-left: 1219px;
+    position: absolute;
+    width: 475px;
+    height: 500px;
+    border-radius: 20px;
+    background-color: #29b7c7;
+}
+
+div#caja4 h2{
+    font-family: sans-serif;
+    color: #1b262c;
+    margin: 1px;
+    padding-left: 50px;
+    padding-top: 35px;
+}
+
+/* Lista Asignaturas */
+div#caja4 ul{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #1b262c;
+    margin: 1px;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+/* Titulo Habilidades */
+div#caja4 h3{
+    font-family: sans-serif;
+    color: #1b262c;
+    margin: 1px;
+    padding-left: 35px;
+    padding-top: 50px;
+}
+
+/* Foto christian */
+div#caja2 img{
+    margin: auto;
+    margin-top: 10px;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}
+
+/* Nombre */
+div#informacion h1 {
+    font-family: sans-serif;
+    color: #1b262c;
+    margin: 0px;
+    padding-left: 80px;
+    padding-top: 30px;
+}
+
+/* Institucion */
+div#informacion h3 {
+    font-family: sans-serif;
+    color: #1b262c;
+    padding-left: 80px;
+    padding-top: 35px;
+}
+
+div#informacion h5 {
+    font-family: sans-serif;
+    font-style: italic;
+    color: #1b262c;
+    padding-left: 80px;
+    padding-top: 35px;
+}
+
+
+div#informacion p {
+    font-family: sans-serif;
+    font-size: 200%;
+    color: #1b262c;
+    margin: 0px;
+    padding-left: 230px;
+    padding-top: 100px;
+}
+
+div#informacion img {
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 75px;
+    width: 100px;
+    height: 100px;
+    border-radius: 125px;
+}
+
+div#telefono h5{
+    font-family: sans-serif;
+    color: #1b262c;
+    position: absolute;
+    margin: 1px;
+    padding-left: 250px;
+    padding-top: 10px;
+}
+
+div#correo h5{
+    font-family: sans-serif;
+    color: #1b262c;
+    position: absolute; 
+    margin: 1px;
+    padding-left: 80px;
+    padding-top: 10px;
+}
+
+div#pagina h5{
+    font-family: sans-serif;
+    color: #1b262c;
+    margin: 1px;
+    padding-left: 450px;
+    padding-top: 10px;
+}
+
+div#caja4 p{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+    margin: 1px;
+    padding-left: 100px;
+    padding-top: 40px;
+}
+
+/* Linea blanca */
+div#separar1 {
+    margin:auto;
+    margin-top: 385px;
+    margin-left: 1219px;
+    position: absolute;
+    width: 3px;
+    height: 400px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+/* Baterias */
+
+div#bateria1 {
+    margin:auto;
+    margin-top: 425px;
+    margin-left: 1435px;
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: white;
+}
+div#complementoBateria1 {
+    margin:auto;
+    margin-top: 425px;
+    margin-left: 1435px;
+    position: absolute;
+    width: 11px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#complemento2Bateria1 {
+    margin:auto;
+    margin-top: 425px;
+    margin-left: 1575px;
+    position: absolute;
+    width: 11px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#puntaBateria1 {
+    margin:auto;
+    margin-top: 434px;
+    margin-left: 1582px;
+    position: absolute;
+    width: 11px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#experiencia1 {
+    margin:auto;
+    margin-top: 426px;
+    margin-left: 1447px;
+    position: absolute;
+    width: 85px;
+    height: 38px;
+    border-radius: 10px;
+    background-color: rgb(12, 179, 12);
+}
+
+div#bateria2 {
+    margin:auto;
+    margin-top: 490px;
+    margin-left: 1435px;
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: white;
+}
+div#complementoBateria2 {
+    margin:auto;
+    margin-top: 490px;
+    margin-left: 1435px;
+    position: absolute;
+    width: 11px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#complemento2Bateria2 {
+    margin:auto;
+    margin-top: 490px;
+    margin-left: 1575px;
+    position: absolute;
+    width: 11px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#puntaBateria2 {
+    margin:auto;
+    margin-top: 499px;
+    margin-left: 1582px;
+    position: absolute;
+    width: 11px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#experiencia2 {
+    margin:auto;
+    margin-top: 491px;
+    margin-left: 1447px;
+    position: absolute;
+    width: 85px;
+    height: 38px;
+    border-radius: 10px;
+    background-color: rgb(12, 179, 12);
+}
+
+div#bateria3 {
+    margin:auto;
+    margin-top: 555px;
+    margin-left: 1435px;
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: white;
+}
+div#complementoBateria3 {
+    margin:auto;
+    margin-top: 555px;
+    margin-left: 1435px;
+    position: absolute;
+    width: 11px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#complemento2Bateria3 {
+    margin:auto;
+    margin-top: 555px;
+    margin-left: 1575px;
+    position: absolute;
+    width: 11px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#puntaBateria3 {
+    margin:auto;
+    margin-top: 564px;
+    margin-left: 1582px;
+    position: absolute;
+    width: 11px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#experiencia3 {
+    margin:auto;
+    margin-top: 556px;
+    margin-left: 1447px;
+    position: absolute;
+    width: 70px;
+    height: 38px;
+    border-radius: 10px;
+    background-color: yellow;
+}
+
+div#bateria4 {
+    margin:auto;
+    margin-top: 618px;
+    margin-left: 1435px;
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: white;
+}
+div#complementoBateria4 {
+    margin:auto;
+    margin-top: 618px;
+    margin-left: 1435px;
+    position: absolute;
+    width: 11px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#complemento2Bateria4 {
+    margin:auto;
+    margin-top: 618px;
+    margin-left: 1575px;
+    position: absolute;
+    width: 11px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#puntaBateria4 {
+    margin:auto;
+    margin-top: 627px;
+    margin-left: 1582px;
+    position: absolute;
+    width: 11px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#experiencia4 {
+    margin:auto;
+    margin-top: 619px;
+    margin-left: 1447px;
+    position: absolute;
+    width: 110px;
+    height: 38px;
+    border-radius: 10px;
+    background-color: rgb(12, 179, 12);
+}
+
+div#bateria5 {
+    margin:auto;
+    margin-top: 680px;
+    margin-left: 1435px;
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: white;
+}
+div#complementoBateria5 {
+    margin:auto;
+    margin-top: 680px;
+    margin-left: 1435px;
+    position: absolute;
+    width: 11px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#complemento2Bateria5 {
+    margin:auto;
+    margin-top: 680px;
+    margin-left: 1575px;
+    position: absolute;
+    width: 11px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#puntaBateria5 {
+    margin:auto;
+    margin-top: 689px;
+    margin-left: 1582px;
+    position: absolute;
+    width: 11px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#experiencia5 {
+    margin:auto;
+    margin-top: 681px;
+    margin-left: 1447px;
+    position: absolute;
+    width: 40px;
+    height: 38px;
+    border-radius: 10px;
+    background-color: red;
+}
+
+div#bateria6 {
+    margin:auto;
+    margin-top: 745px;
+    margin-left: 1435px;
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: white;
+}
+div#complementoBateria6 {
+    margin:auto;
+    margin-top: 745px;
+    margin-left: 1435px;
+    position: absolute;
+    width: 11px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#complemento2Bateria6 {
+    margin:auto;
+    margin-top: 745px;
+    margin-left: 1575px;
+    position: absolute;
+    width: 11px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#puntaBateria6 {
+    margin:auto;
+    margin-top: 754px;
+    margin-left: 1582px;
+    position: absolute;
+    width: 11px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: grey;
+}
+div#experiencia6 {
+    margin:auto;
+    margin-top: 746px;
+    margin-left: 1447px;
+    position: absolute;
+    width: 70px;
+    height: 38px;
+    border-radius: 10px;
+    background-color: yellow;
+}

@@ -1,0 +1,25 @@
+body {
+    background-color: gray;
+}
+
+img {
+    position: absolute;
+    width: 325px;
+}
+
+h1 {
+    padding-left: 350px;
+    background-color: burlywood;
+    background-size: 150px;
+
+}
+
+h2 {
+    padding-left: 350px;
+    background-color: cyan;
+}
+
+h4 {
+    padding-left: 350px;
+    background-color: cyan;
+}

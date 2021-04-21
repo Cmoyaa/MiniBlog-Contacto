@@ -1,0 +1,94 @@
+body{
+    background-color: rgb(211, 198, 198);
+}
+.nav {
+    margin-left: 300px;
+    padding: 8px 18px;
+    font-weight:600 ;
+}
+
+.nav-pills > li > a.active {
+    background-color: #3f7947 !important;
+    color: #ffffff !important;
+  }
+  
+  .nav-pills > li > a {
+      margin: 10px ;
+    color: #3bce42 !important;
+  }
+  
+  .nav-pills > li > a:hover {
+    color: #1b551e !important;
+  }
+  
+  a{
+      margin-left: 30px;
+      color: rgb(44, 51, 31);
+      text-decoration: none;
+  }
+p{
+   font-weight: 500;
+}
+  .carousel-item{    
+    max-width: 100%;
+    padding: 20ex;
+    margin: 1px;
+}
+
+
+.container{
+    border-radius: 1ch;
+    background-color: whitesmoke;
+}
+
+hr{
+    color: green;
+}
+
+h4{
+    clear: both;
+    margin-right: 20px;
+}
+  #portafolio{
+      color: green;
+      
+  }
+  
+  #porta{
+      margin-right: 20px;
+  }
+
+
+
+
+  .card1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 0 0px 20px 0 rgba(0,0,0,0.2);
+    background-color: rgba(11, 121, 7, 0.795);
+    transition: 0.3s;
+ }
+
+ .card2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 0 0px 20px 0 rgba(0,0,0,0.2);
+    background-color: rgba(36, 9, 190, 0.685);
+    transition: 0.3s;
+ }
+
+ .card3 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 0 0px 20px 0 rgba(0,0,0,0.2);
+    background-color: rgba(208, 211, 25, 0.808);
+    transition: 0.3s;
+ }
+
+ .card4 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 0 0px 20px 0 rgba(0,0,0,0.2);
+    background-color: rgba(223, 17, 17, 0.788);
+    transition: 0.3s;
+ }
